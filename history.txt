@@ -1,0 +1,13 @@
+ DIR /help
+/help
+ COPY CON my.txt
+ghgh cgh dgsdhj
+
+cls
+help dir > dir.txt|
+help dir > dir.txt
+help copy > copy.txt
+help xcopy > xcopy.txt
+doskey
+doskey /history
+doskey /history > history.txt
